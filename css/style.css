@@ -191,7 +191,7 @@ a.touf.btn.btn-outline-light.py-md-3.px-md-5.animated.slideInLeft {
     height: 90px;
     border: 1px solid #ffffff;
     border-radius: 10px;
-    background: linear-gradient(rgba(0, 0, 0, 0.247), rgba(167, 166, 166, 0.116)), url(../img/logo_misrtravel/LOGO-touf-removebg-preview.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.247), rgba(167, 166, 166, 0.116)),url(../img/logo_misrtravel/LOGO-touf-removebg-preview.png);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -544,7 +544,7 @@ h6,
     left: 0;
     right: 0;
     bottom: 0;
-    /* background: rgb(9 30 62 / 39%); */
+    background: rgb(9 30 62 / 39%); 
     z-index: 1;
 }
 
