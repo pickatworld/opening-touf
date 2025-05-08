@@ -191,7 +191,7 @@ a.touf.btn.btn-outline-light.py-md-3.px-md-5.animated.slideInLeft {
     height: 107px;
     border: 1px solid #ffffff;
     border-radius: 10px;
-    background: linear-gradient(rgb(0 0 0 / 49%), rgba(167, 166, 166, 0.116)), url(../img/log/logo-touf-3.jpg);
+    background: linear-gradient(rgb(0 0 0 / 26%), rgba(167, 166, 166, 0.116)),url(../img/log/logo-touf-3.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -212,7 +212,7 @@ a.misr.btn.btn-outline-light.py-md-3.px-md-5.animated.slideInRight {
     height: 107px;
     border: 1px solid #ffffff;
     border-radius: 10px;
-    background: linear-gradient(rgb(0 0 0 / 49%), rgba(167, 166, 166, 0.116)), url(../img/log/logo-misr-3.jpg);
+    background: linear-gradient(rgb(0 0 0 / 26%), rgba(167, 166, 166, 0.116)), url(../img/log/logo-misr-3.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
