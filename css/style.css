@@ -187,10 +187,10 @@ span.wshouf {
 /*  but background        */
 
 a.touf.btn.btn-outline-light.py-md-3.px-md-5.animated.slideInLeft {
-    width: 266px;
+    width: 360px;
     height: 107px;
     border: 1px solid #ffffff;
-    border-radius: 10px;
+    border-radius: 25px;
     background: linear-gradient(rgb(0 0 0 / 26%), rgba(167, 166, 166, 0.116)),url(../img/log/logo-touf-3.jpg);
     background-size: cover;
     background-position: center center;
@@ -208,10 +208,10 @@ a.touf.btn.btn-outline-light.py-md-3.px-md-5.animated.slideInLeft:hover {
 }
 
 a.misr.btn.btn-outline-light.py-md-3.px-md-5.animated.slideInRight {
-    width: 266px;
+    width: 360px;
     height: 107px;
     border: 1px solid #ffffff;
-    border-radius: 10px;
+    border-radius: 25px;
     background: linear-gradient(rgb(0 0 0 / 26%), rgba(167, 166, 166, 0.116)), url(../img/log/logo-misr-3.jpg);
     background-size: cover;
     background-position: center center;
